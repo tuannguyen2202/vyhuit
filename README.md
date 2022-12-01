@@ -5,6 +5,4 @@ This is my Github account. I use it for learning, working
 
 Have a nice day!
 
-<img src="contributions.svg">
-
 <img width="0" src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg" />
